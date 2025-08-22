@@ -29,8 +29,7 @@ let package = Package(
                 "DeviceDetailView.swift"
             ],
             resources: [
-                .process("Assets.xcassets"),
-                .process("Info.plist")
+                .process("Assets.xcassets")
             ]),
     ]
 ) 
